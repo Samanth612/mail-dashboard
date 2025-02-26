@@ -68,8 +68,8 @@ This project implements a **Mailing Dashboard** with authentication. It includes
 
 ## 🖼 **Screenshots**
 
-![Login Page](LoginPage.png)
-!![Mail Dashboard](Dashboard.png)
+![Login Page](public/assets/LoginPage.png)
+!![Mail Dashboard](public/assets/Dashboard.png)
 
 ---
 
